@@ -11,7 +11,7 @@
 
 **블로그 :** <a href="https://velog.io/@merci">https://velog.io/@merci</a>
 
-**이메일 :** piw940317@gmail.com
+**이메일 :** merci@firstinfo.kr
 
 <br />
 
